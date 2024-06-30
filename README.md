@@ -33,8 +33,8 @@
     </div>
 
 <div id="profile">
-    <a href="https://discord.com/users/883365116412854303" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/883365116412854303?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
+    <a href="https://discord.com/users/572505632024952834" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/572505632024952834?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
     </a>
     <a href="https://github.com/dscss2" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=dscss2" alt="dscss2's GitHub stats"/>
