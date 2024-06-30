@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
+    <img src="https://cdn.discordapp.com/avatars/572505632024952834/a_4c82696c10a8e3376e1f7253f152d84e?size=1024" width="100" style="border-radius: 50%;"/>
 
 <div id="badges">
     <a href="https://www.youtube.com/@timurishche" target="_blank">
@@ -9,7 +9,7 @@
     <a href="https://github.com/TIMURishche?tab=followers">
         <img src="https://img.shields.io/github/followers/TIMURishche" alt="GitHub Followers"/>
     </a>
-    <a href="https://github.com/dscss1">
+    <a href="https://github.com/TIMURishche">
         <img src="https://komarev.com/ghpvc/?username=TIMURishche&style=flat-square" alt="Profile Views"/>
     </a>
 </div>
@@ -36,11 +36,11 @@
     <a href="https://discord.com/users/572505632024952834" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/572505632024952834?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
     </a>
-    <a href="https://github.com/dscss2" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=dscss2" alt="dscss2's GitHub stats"/>
+    <a href="https://github.com/TIMURishche" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=TIMURishche" alt="dscss2's GitHub stats"/>
     </a>
-    <a href="https://github.com/dscss2" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscss2&layout=donut-vertical" alt="Top Languages"/>
+    <a href="https://github.com/TIMURishche" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMURishche&layout=donut-vertical" alt="Top Languages"/>
     </a>
     </div>
 </div>
